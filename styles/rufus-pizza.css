@@ -8,7 +8,6 @@ body, html {
 
 header {
   background-color: rgb(255, 236, 188);
-  height: 9vh;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -157,7 +156,6 @@ button:active {
 
 .footer-container {
   background-color: rgb(255, 236, 188);
-  height: 9vh;
   width: 100%;
   position: fixed;
   bottom:0;
